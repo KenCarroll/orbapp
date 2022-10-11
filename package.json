@@ -9,6 +9,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@memgraph/orb": "^0.1.1",
+    "@open-wc/webpack-import-meta-loader": "^0.4.7",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
